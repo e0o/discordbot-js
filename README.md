@@ -4,6 +4,8 @@
 
 # Node.js 16.6.0 
 
+# ```git clone https://github.com/e0o/discordbot-js.git```
+
 # Installation ```npm install```
 
 
